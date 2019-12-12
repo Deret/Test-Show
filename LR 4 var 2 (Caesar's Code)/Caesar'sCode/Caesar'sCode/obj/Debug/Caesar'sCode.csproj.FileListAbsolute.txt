@@ -1,0 +1,36 @@
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csprojAssemblyReference.cache
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Properties.Resources.resources
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csproj.GenerateResource.cache
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe.config
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.pdb
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.exe
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.pdb
+D:\Лабы 3 курс\ЗКИ\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Caesar.resources
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe.config
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.pdb
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csprojAssemblyReference.cache
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Caesar.resources
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Properties.Resources.resources
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csproj.GenerateResource.cache
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.exe
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 15 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.pdb
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe.config
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.pdb
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csprojAssemblyReference.cache
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Caesar.resources
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Properties.Resources.resources
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csproj.GenerateResource.cache
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.exe
+C:\Users\Rusk\Desktop\Учёба\Лабы\ЗКИ\Лаба_5\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.pdb
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe.config
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.exe
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\bin\Debug\Caesar'sCode.pdb
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csprojAssemblyReference.cache
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Caesar.resources
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar_sCode.Properties.Resources.resources
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.csproj.GenerateResource.cache
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.exe
+C:\Users\Der\Desktop\LR 4 var 2 (Caesar's Code)\Caesar'sCode\Caesar'sCode\obj\Debug\Caesar'sCode.pdb
