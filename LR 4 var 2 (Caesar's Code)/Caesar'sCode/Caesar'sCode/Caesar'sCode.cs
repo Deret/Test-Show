@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Caesar_sCode
@@ -15,7 +10,6 @@ namespace Caesar_sCode
     {
         private static string alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
         private static char[] newAlpha = new char[36];
-      //  private static string NewAlphavit;
         public Caesar()
         {
             InitializeComponent();
@@ -58,7 +52,7 @@ namespace Caesar_sCode
         {
             newAlpha = new char[36];
             bool findSame = false;
-          //  key++;
+         
             int beg = 0, current = key;
             // добавить ключевое слово в новый алфавит
             for (int i = key; i < keyWord.Length + key; i++)
